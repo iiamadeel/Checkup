@@ -1,0 +1,6 @@
+C:\Users\Adeel Khan\source\repos\Three_Tier_Architecture\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Adeel Khan\source\repos\Three_Tier_Architecture\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Adeel Khan\source\repos\Three_Tier_Architecture\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Adeel Khan\source\repos\Three_Tier_Architecture\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Adeel Khan\source\repos\Three_Tier_Architecture\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Adeel Khan\source\repos\Three_Tier_Architecture\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
